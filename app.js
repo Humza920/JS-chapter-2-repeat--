@@ -19,3 +19,13 @@
 // alert(fullName)
 // alert(age)
 // alert(skill)
+
+// QUESTION 5
+// var pizza = "Pizza \n Pizz \n Piz \n Pi \n P"
+// alert(pizza)
+
+// QUESTION 6
+// var email = " humza.rehmen.779@yahoo.com"
+// var start = "MY email-adress is"
+// alert(start.concat(email))
+
