@@ -33,7 +33,8 @@
 // var book = "A smarter way to learn JavaScript"
 // alert("I am trying to learn from the book \n" + book)
 
-
+// QUESTION 8
+// document.write("Yah! i can write HTML content </br> through JS")
 
 
 
