@@ -29,3 +29,11 @@
 // var start = "MY email-adress is"
 // alert(start.concat(email))
 
+// QUESTION 7
+// var book = "A smarter way to learn JavaScript"
+// alert("I am trying to learn from the book \n" + book)
+
+
+
+
+
