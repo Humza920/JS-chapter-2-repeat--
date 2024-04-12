@@ -37,4 +37,4 @@
 // document.write("Yah! i can write HTML content </br> through JS")
 
 
-console.log();
+
